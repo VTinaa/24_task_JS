@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+div {
+    height: 850px;
+    background: linear-gradient(to bottom, rgba(118,227,227,1) 0%, rgba(174,128,209,1) 100%);
+    /* margin: 0; */
+
+}
+
+div.midle {
+    width: 500px; 
+    margin: 0 auto;
+}
+
+p{
+    display: grid;
+    grid-template-columns: 2fr 1fr;
+}
+ul {
+    list-style-type: none;
+}
